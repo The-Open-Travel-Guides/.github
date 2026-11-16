@@ -1,7 +1,7 @@
 # 🌍 Welcome to Open Travel Guides
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-Open-Travel-Guides/awesome-china-travel/main/images/hero/twitter-header.jpg" alt="Open Travel Guides Banner" width="100%" />
+  <img src="https://chinatravelsky.com/images/twitter-header.jpg" alt="Open Travel Guides Banner" width="100%" />
 </p>
 
 <p align="center">
